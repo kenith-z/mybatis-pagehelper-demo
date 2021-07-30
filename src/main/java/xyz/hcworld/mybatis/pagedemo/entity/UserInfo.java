@@ -1,7 +1,6 @@
 package xyz.hcworld.mybatis.pagedemo.entity;
 
 import lombok.Data;
-import org.springframework.stereotype.Component;
 
 import java.util.Date;
 
@@ -11,7 +10,6 @@ import java.util.Date;
  * @Date: 2021-07-29
  * @Version： 1.0
  */
-@Component
 @Data
 public class UserInfo {
 
